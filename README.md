@@ -1,1 +1,1 @@
-Here I will put my solutions to leet code exercises in Python and Go
+My solutions to leet code exercise, mainly in python and go
