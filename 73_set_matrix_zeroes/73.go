@@ -29,7 +29,8 @@ func setZeroes(matrix [][]int) {
 	deepCopy(output, matrix)
 }
 
-// create an output deepcopy
+// deepCopy creates a deepCopy (element by element)}
+// of one matrix to dst matrix
 func deepCopy(matrix [][]int, dst [][]int) {
 	// output := make([][]int, len(matrix))
 	for i := range matrix {
